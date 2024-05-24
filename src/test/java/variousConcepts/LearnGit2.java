@@ -24,5 +24,10 @@ public class LearnGit2 {
 		
 	}
 	
+	public void test1()
+	{
+		System.out.println("test 1");
+	}
+	
 	
 }
